@@ -1,0 +1,186 @@
+{
+  "mae": 0.074,
+  "rmse": 0.0877,
+  "mape": 5.92,
+  "wape": 5.8,
+  "sample_count": 24,
+  "eligible_mape_samples": 24,
+  "excluded_near_zero_samples": 0,
+  "target_achieved": true,
+  "target_threshold_mape": 10.0,
+  "evaluation_period": {
+    "start": "2010-11-24T19:00:00",
+    "end": "2010-11-25T18:00:00"
+  },
+  "mape_warning": null,
+  "comparison_series": [
+    {
+      "timestamp": "2010-11-24T19:00:00",
+      "actual_kw": 2.873,
+      "predicted_kw": 2.722,
+      "residual_kw": -0.151,
+      "abs_error_kw": 0.151
+    },
+    {
+      "timestamp": "2010-11-24T20:00:00",
+      "actual_kw": 2.937,
+      "predicted_kw": 2.738,
+      "residual_kw": -0.2,
+      "abs_error_kw": 0.2
+    },
+    {
+      "timestamp": "2010-11-24T21:00:00",
+      "actual_kw": 2.235,
+      "predicted_kw": 2.121,
+      "residual_kw": -0.114,
+      "abs_error_kw": 0.114
+    },
+    {
+      "timestamp": "2010-11-24T22:00:00",
+      "actual_kw": 1.072,
+      "predicted_kw": 1.04,
+      "residual_kw": -0.032,
+      "abs_error_kw": 0.032
+    },
+    {
+      "timestamp": "2010-11-24T23:00:00",
+      "actual_kw": 0.534,
+      "predicted_kw": 0.497,
+      "residual_kw": -0.037,
+      "abs_error_kw": 0.037
+    },
+    {
+      "timestamp": "2010-11-25T00:00:00",
+      "actual_kw": 0.485,
+      "predicted_kw": 0.525,
+      "residual_kw": 0.04,
+      "abs_error_kw": 0.04
+    },
+    {
+      "timestamp": "2010-11-25T01:00:00",
+      "actual_kw": 0.534,
+      "predicted_kw": 0.511,
+      "residual_kw": -0.024,
+      "abs_error_kw": 0.024
+    },
+    {
+      "timestamp": "2010-11-25T02:00:00",
+      "actual_kw": 0.573,
+      "predicted_kw": 0.526,
+      "residual_kw": -0.046,
+      "abs_error_kw": 0.046
+    },
+    {
+      "timestamp": "2010-11-25T03:00:00",
+      "actual_kw": 0.543,
+      "predicted_kw": 0.505,
+      "residual_kw": -0.037,
+      "abs_error_kw": 0.037
+    },
+    {
+      "timestamp": "2010-11-25T04:00:00",
+      "actual_kw": 0.539,
+      "predicted_kw": 0.519,
+      "residual_kw": -0.019,
+      "abs_error_kw": 0.019
+    },
+    {
+      "timestamp": "2010-11-25T05:00:00",
+      "actual_kw": 0.545,
+      "predicted_kw": 0.502,
+      "residual_kw": -0.043,
+      "abs_error_kw": 0.043
+    },
+    {
+      "timestamp": "2010-11-25T06:00:00",
+      "actual_kw": 1.259,
+      "predicted_kw": 1.205,
+      "residual_kw": -0.054,
+      "abs_error_kw": 0.054
+    },
+    {
+      "timestamp": "2010-11-25T07:00:00",
+      "actual_kw": 2.107,
+      "predicted_kw": 2.013,
+      "residual_kw": -0.094,
+      "abs_error_kw": 0.094
+    },
+    {
+      "timestamp": "2010-11-25T08:00:00",
+      "actual_kw": 1.306,
+      "predicted_kw": 1.235,
+      "residual_kw": -0.071,
+      "abs_error_kw": 0.071
+    },
+    {
+      "timestamp": "2010-11-25T09:00:00",
+      "actual_kw": 1.232,
+      "predicted_kw": 1.286,
+      "residual_kw": 0.054,
+      "abs_error_kw": 0.054
+    },
+    {
+      "timestamp": "2010-11-25T10:00:00",
+      "actual_kw": 1.201,
+      "predicted_kw": 1.268,
+      "residual_kw": 0.067,
+      "abs_error_kw": 0.067
+    },
+    {
+      "timestamp": "2010-11-25T11:00:00",
+      "actual_kw": 1.168,
+      "predicted_kw": 1.298,
+      "residual_kw": 0.13,
+      "abs_error_kw": 0.13
+    },
+    {
+      "timestamp": "2010-11-25T12:00:00",
+      "actual_kw": 1.242,
+      "predicted_kw": 1.279,
+      "residual_kw": 0.037,
+      "abs_error_kw": 0.037
+    },
+    {
+      "timestamp": "2010-11-25T13:00:00",
+      "actual_kw": 1.23,
+      "predicted_kw": 1.278,
+      "residual_kw": 0.048,
+      "abs_error_kw": 0.048
+    },
+    {
+      "timestamp": "2010-11-25T14:00:00",
+      "actual_kw": 1.177,
+      "predicted_kw": 1.289,
+      "residual_kw": 0.112,
+      "abs_error_kw": 0.112
+    },
+    {
+      "timestamp": "2010-11-25T15:00:00",
+      "actual_kw": 1.213,
+      "predicted_kw": 1.286,
+      "residual_kw": 0.073,
+      "abs_error_kw": 0.073
+    },
+    {
+      "timestamp": "2010-11-25T16:00:00",
+      "actual_kw": 1.234,
+      "predicted_kw": 1.306,
+      "residual_kw": 0.072,
+      "abs_error_kw": 0.072
+    },
+    {
+      "timestamp": "2010-11-25T17:00:00",
+      "actual_kw": 1.074,
+      "predicted_kw": 1.022,
+      "residual_kw": -0.052,
+      "abs_error_kw": 0.052
+    },
+    {
+      "timestamp": "2010-11-25T18:00:00",
+      "actual_kw": 2.269,
+      "predicted_kw": 2.102,
+      "residual_kw": -0.167,
+      "abs_error_kw": 0.167
+    }
+  ]
+}

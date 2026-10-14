@@ -1,0 +1,6 @@
+{
+  "name": "Smart Building Energy Consumption Forecasting Platform",
+  "description": "Production-grade energy forecasting platform with Kafka streaming replay, HDFS/local storage tier, ARIMA/SARIMAX and Prophet time-series models, peak demand detection, and IoT analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
